@@ -4,7 +4,7 @@ A collection of handy JavaScript live templates I use with IntelliJ / WebStorm.
 
 ## Import - the soft way
 
-- Download [live-template.jar](live-template.jar).
+- Download [live-templates.jar](live-templates.jar).
 - Go to file -> Import Settings...
 - Import the file.
 
@@ -13,7 +13,7 @@ A collection of handy JavaScript live templates I use with IntelliJ / WebStorm.
  - Go to settings.
  - Search for live templates.
  - Under the javascript section you should be able to manage your templates.
- - For each template in [live-template.js](live-template.js):
+ - For each template in [live-templates.js](live-templates.js):
    - Create new template.
    - Fill **abbrevation** with the `@abbr` value.
    - Fill **description** with the `@desc` value.
